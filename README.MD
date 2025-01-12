@@ -1,12 +1,12 @@
-Criando um Ebook com ChatGPT & MidJourney
+Criando um Ebook com ChatGPT & Midjourney
 
 ## 💻 Ferramentas utilizadas no projeto
 
 - [ChatGPT](https://chatgpt.com)
-- [MidJourney](https://www.midjourney.com/home)
+- [Midjourney](https://www.midjourney.com/home)
 - [PowerPoint](https://www.microsoft.com/pt-br/powerpoint)
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagem gerada via MidJourney
+- Imagem gerada via Midjourney
