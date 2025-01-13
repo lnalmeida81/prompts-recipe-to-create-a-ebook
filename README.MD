@@ -1,4 +1,4 @@
-Criando um Ebook com ChatGPT & Midjourney
+## Criando um Ebook com ChatGPT & Midjourney
 
 ## 💻 Ferramentas utilizadas no projeto
 
